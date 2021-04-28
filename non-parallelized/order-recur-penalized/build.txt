@@ -1,0 +1,8 @@
+Build code:
+gcc order.c main.c -o order-recur-penalized.exe -lm
+or:
+gcc Task_order_3.c -o order-recur-penalized.exe -lm
+（The contents of Task_order_3.c are the same as the three files: order.h, order.c, main.c put together.)
+
+Execute code:
+./ order-recur-penalized.exe

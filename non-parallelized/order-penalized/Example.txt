@@ -1,0 +1,56 @@
+Please enter the number of task types:
+5
+The number of task types is 5
+Enter the average time of completion of task type 0
+:3
+Enter the average importance of task type 0
+:2
+Enter the probability of appearance of task type 0
+:0.89
+Enter the average time of completion of task type 1
+:4
+Enter the average importance of task type 1
+:2
+Enter the probability of appearance of task type 1
+:0.93
+Enter the average time of completion of task type 2
+:5
+Enter the average importance of task type 2
+:1
+Enter the probability of appearance of task type 2
+:0.87
+Enter the average time of completion of task type 3
+:3
+Enter the average importance of task type 3
+:0.3
+Enter the probability of appearance of task type 3
+:0.59
+Enter the average time of completion of task type 4
+:3
+Enter the average importance of task type 4
+:2.5
+Enter the probability of appearance of task type 4
+:0.65
+The time for completion for task type 0 is 2.928814
+The importance of task type 0 is 1.952543
+The time for completion for task type 1 is 4.363409
+The importance of task type 1 is 2.181704
+The time for completion for task type 2 is 0.000000
+The importance of task type 2 is 0.000000
+The time for completion for task type 3 is 3.230658
+The importance of task type 3 is 0.323066
+The time for completion for task type 4 is 3.034266
+The importance of task type 4 is 2.528555
+Time of completion of Task 0 is 2.928814
+Importance of Task 0 is 1.952543
+Time of completion of Task 1 is 4.363409
+Importance of Task 1 is 2.181704
+Time of completion of Task 3 is 3.230658
+Importance of Task 3 is 0.323066
+Time of completion of Task 4 is 3.034266
+Importance of Task 4 is 2.528555
+The list of tasks is performed in the order of :
+0. task type 4
+1. task type 3
+2. task type 1
+3. task type 0

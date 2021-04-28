@@ -1,0 +1,274 @@
+Please enter the number of hour at the beginning of which tasks will appear:
+10
+Tasks will appear at the beginning of each hour for 10 hours
+Enter the average time of completion of task type 0
+:3
+Enter the average importance of task type 0
+:2
+Enter the probability of appearance of task type 0
+:0.98
+Enter the average time of completion of task type 1
+:1
+Enter the average importance of task type 1
+:3
+Enter the probability of appearance of task type 1
+:0.89
+Enter the average time of completion of task type 2
+:2.5
+Enter the average importance of task type 2
+:3
+Enter the probability of appearance of task type 2
+:0.77
+Enter the average time of completion of task type 3
+:5.2
+Enter the average importance of task type 3
+:3.4
+Enter the probability of appearance of task type 3
+:0.59
+Enter the average time of completion of task type 4
+:1.5
+Enter the average importance of task type 4
+:6.3
+Enter the probability of appearance of task type 4
+:0.39
+Enter the average time of completion of task type 5
+:2.3
+Enter the average importance of task type 5
+:4.6
+Enter the probability of appearance of task type 5
+:0.48
+Enter the average time of completion of task type 6
+:3.5
+Enter the average importance of task type 6
+:5.4
+Enter the probability of appearance of task type 6
+:0.78
+Enter the average time of completion of task type 7
+:4
+Enter the average importance of task type 7
+:2
+Enter the probability of appearance of task type 7
+:0.39
+Enter the average time of completion of task type 8
+:2
+Enter the average importance of task type 8
+:5
+Enter the probability of appearance of task type 8
+:0.63
+Enter the average time of completion of task type 9
+:2.8
+Enter the average importance of task type 9
+:5.9
+Enter the probability of appearance of task type 9
+:0.93           
+Time of completion of Task 0 of hour 0 and type 0 is 3.040805
+Importance of Task 0 of hour 0 and type 0 is 2.027203
+Time of completion of Task 1 of hour 0 and type 1 is 1.096098
+Importance of Task 1 of hour 0 and type 1 is 3.288293
+Time of completion of Task 2 of hour 0 and type 2 is 2.489728
+Importance of Task 2 of hour 0 and type 2 is 2.987674
+Time of completion of Task 3 of hour 0 and type 3 is 6.016325
+Importance of Task 3 of hour 0 and type 3 is 3.933751
+Time of completion of Task 5 of hour 0 and type 5 is 2.591053
+Importance of Task 5 of hour 0 and type 5 is 5.182106
+Time of completion of Task 6 of hour 0 and type 6 is 3.509605
+Importance of Task 6 of hour 0 and type 6 is 5.414819
+Time of completion of Task 7 of hour 0 and type 7 is 2.596966
+Importance of Task 7 of hour 0 and type 7 is 1.298483
+Time of completion of Task 8 of hour 0 and type 8 is 1.936757
+Importance of Task 8 of hour 0 and type 8 is 4.841893
+Time of completion of Task 9 of hour 0 and type 9 is 2.491095
+Importance of Task 9 of hour 0 and type 9 is 5.249094
+Time of completion of Task 11 of hour 1 and type 1 is 0.532641
+Importance of Task 11 of hour 1 and type 1 is 1.597922
+Time of completion of Task 12 of hour 1 and type 2 is 2.429992
+Importance of Task 12 of hour 1 and type 2 is 2.915991
+Time of completion of Task 13 of hour 1 and type 3 is 5.279862
+Importance of Task 13 of hour 1 and type 3 is 3.452218
+Time of completion of Task 15 of hour 1 and type 5 is 2.390772
+Importance of Task 15 of hour 1 and type 5 is 4.781543
+Time of completion of Task 16 of hour 1 and type 6 is 3.377280
+Importance of Task 16 of hour 1 and type 6 is 5.210660
+Time of completion of Task 17 of hour 1 and type 7 is 4.097017
+Importance of Task 17 of hour 1 and type 7 is 2.048508
+Time of completion of Task 19 of hour 1 and type 9 is 2.658783
+Importance of Task 19 of hour 1 and type 9 is 5.602436
+Time of completion of Task 20 of hour 2 and type 0 is 3.181185
+Importance of Task 20 of hour 2 and type 0 is 2.120790
+Time of completion of Task 22 of hour 2 and type 2 is 2.185900
+Importance of Task 22 of hour 2 and type 2 is 2.623080
+Time of completion of Task 23 of hour 2 and type 3 is 4.808114
+Importance of Task 23 of hour 2 and type 3 is 3.143767
+Time of completion of Task 28 of hour 2 and type 8 is 1.896014
+Importance of Task 28 of hour 2 and type 8 is 4.740035
+Time of completion of Task 29 of hour 2 and type 9 is 1.946755
+Importance of Task 29 of hour 2 and type 9 is 4.102091
+Time of completion of Task 30 of hour 3 and type 0 is 2.494181
+Importance of Task 30 of hour 3 and type 0 is 1.662787
+Time of completion of Task 31 of hour 3 and type 1 is 0.781458
+Importance of Task 31 of hour 3 and type 1 is 2.344373
+Time of completion of Task 32 of hour 3 and type 2 is 2.954393
+Importance of Task 32 of hour 3 and type 2 is 3.545272
+Time of completion of Task 33 of hour 3 and type 3 is 4.885132
+Importance of Task 33 of hour 3 and type 3 is 3.194125
+Time of completion of Task 36 of hour 3 and type 6 is 3.188553
+Importance of Task 36 of hour 3 and type 6 is 4.919482
+Time of completion of Task 38 of hour 3 and type 8 is 2.457170
+Importance of Task 38 of hour 3 and type 8 is 6.142925
+Time of completion of Task 39 of hour 3 and type 9 is 2.371631
+Importance of Task 39 of hour 3 and type 9 is 4.997365
+Time of completion of Task 40 of hour 4 and type 0 is 2.921774
+Importance of Task 40 of hour 4 and type 0 is 1.947849
+Time of completion of Task 41 of hour 4 and type 1 is 1.024581
+Importance of Task 41 of hour 4 and type 1 is 3.073744
+Time of completion of Task 42 of hour 4 and type 2 is 2.418802
+Importance of Task 42 of hour 4 and type 2 is 2.902563
+Time of completion of Task 43 of hour 4 and type 3 is 4.785017
+Importance of Task 43 of hour 4 and type 3 is 3.128665
+Time of completion of Task 46 of hour 4 and type 6 is 3.370697
+Importance of Task 46 of hour 4 and type 6 is 5.200503
+Time of completion of Task 47 of hour 4 and type 7 is 4.151110
+Importance of Task 47 of hour 4 and type 7 is 2.075555
+Time of completion of Task 48 of hour 4 and type 8 is 1.587411
+Importance of Task 48 of hour 4 and type 8 is 3.968527
+Time of completion of Task 49 of hour 4 and type 9 is 2.802705
+Importance of Task 49 of hour 4 and type 9 is 5.905699
+Time of completion of Task 50 of hour 5 and type 0 is 3.688286
+Importance of Task 50 of hour 5 and type 0 is 2.458858
+Time of completion of Task 51 of hour 5 and type 1 is 1.166197
+Importance of Task 51 of hour 5 and type 1 is 3.498592
+Time of completion of Task 52 of hour 5 and type 2 is 2.374821
+Importance of Task 52 of hour 5 and type 2 is 2.849786
+Time of completion of Task 53 of hour 5 and type 3 is 4.180405
+Importance of Task 53 of hour 5 and type 3 is 2.733341
+Time of completion of Task 55 of hour 5 and type 5 is 2.623034
+Importance of Task 55 of hour 5 and type 5 is 5.246068
+Time of completion of Task 57 of hour 5 and type 7 is 3.586628
+Importance of Task 57 of hour 5 and type 7 is 1.793314
+Time of completion of Task 59 of hour 5 and type 9 is 2.802205
+Importance of Task 59 of hour 5 and type 9 is 5.904646
+Time of completion of Task 60 of hour 6 and type 0 is 2.937221
+Importance of Task 60 of hour 6 and type 0 is 1.958147
+Time of completion of Task 61 of hour 6 and type 1 is 1.014790
+Importance of Task 61 of hour 6 and type 1 is 3.044371
+Time of completion of Task 62 of hour 6 and type 2 is 2.679208
+Importance of Task 62 of hour 6 and type 2 is 3.215050
+Time of completion of Task 64 of hour 6 and type 4 is 1.453943
+Importance of Task 64 of hour 6 and type 4 is 6.106563
+Time of completion of Task 66 of hour 6 and type 6 is 3.638067
+Importance of Task 66 of hour 6 and type 6 is 5.613018
+Time of completion of Task 69 of hour 6 and type 9 is 2.696903
+Importance of Task 69 of hour 6 and type 9 is 5.682760
+Time of completion of Task 70 of hour 7 and type 0 is 2.913680
+Importance of Task 70 of hour 7 and type 0 is 1.942453
+Time of completion of Task 71 of hour 7 and type 1 is 0.954390
+Importance of Task 71 of hour 7 and type 1 is 2.863168
+Time of completion of Task 72 of hour 7 and type 2 is 2.347697
+Importance of Task 72 of hour 7 and type 2 is 2.817236
+Time of completion of Task 75 of hour 7 and type 5 is 2.470076
+Importance of Task 75 of hour 7 and type 5 is 4.940153
+Time of completion of Task 78 of hour 7 and type 8 is 2.906709
+Importance of Task 78 of hour 7 and type 8 is 7.266772
+Time of completion of Task 79 of hour 7 and type 9 is 2.158107
+Importance of Task 79 of hour 7 and type 9 is 4.547441
+Time of completion of Task 80 of hour 8 and type 0 is 2.716079
+Importance of Task 80 of hour 8 and type 0 is 1.810719
+Time of completion of Task 81 of hour 8 and type 1 is 1.029238
+Importance of Task 81 of hour 8 and type 1 is 3.087715
+Time of completion of Task 82 of hour 8 and type 2 is 2.268227
+Importance of Task 82 of hour 8 and type 2 is 2.721873
+Time of completion of Task 84 of hour 8 and type 4 is 1.599903
+Importance of Task 84 of hour 8 and type 4 is 6.719594
+Time of completion of Task 85 of hour 8 and type 5 is 2.791794
+Importance of Task 85 of hour 8 and type 5 is 5.583589
+Time of completion of Task 86 of hour 8 and type 6 is 3.361203
+Importance of Task 86 of hour 8 and type 6 is 5.185856
+Time of completion of Task 87 of hour 8 and type 7 is 4.251071
+Importance of Task 87 of hour 8 and type 7 is 2.125536
+Time of completion of Task 89 of hour 8 and type 9 is 2.990979
+Importance of Task 89 of hour 8 and type 9 is 6.302421
+Time of completion of Task 90 of hour 9 and type 0 is 2.627549
+Importance of Task 90 of hour 9 and type 0 is 1.751699
+Time of completion of Task 91 of hour 9 and type 1 is 0.789637
+Importance of Task 91 of hour 9 and type 1 is 2.368912
+Time of completion of Task 93 of hour 9 and type 3 is 4.438493
+Importance of Task 93 of hour 9 and type 3 is 2.902092
+Time of completion of Task 95 of hour 9 and type 5 is 2.278062
+Importance of Task 95 of hour 9 and type 5 is 4.556124
+Time of completion of Task 96 of hour 9 and type 6 is 3.662990
+Importance of Task 96 of hour 9 and type 6 is 5.651470
+Time of completion of Task 98 of hour 9 and type 8 is 1.818673
+Importance of Task 98 of hour 9 and type 8 is 4.546684
+Time of completion of Task 99 of hour 9 and type 9 is 2.647817
+Importance of Task 99 of hour 9 and type 9 is 5.579329
+The list of tasks is performed in the order of :
+1. task 6 of hour 0 and type 6 with importance 5.414819 and time of completion 3.509605
+2. task 38 of hour 3 and type 8 with importance 6.142925 and time of completion 2.457170
+3. task 49 of hour 4 and type 9 with importance 5.905699 and time of completion 2.802705
+4. task 78 of hour 7 and type 8 with importance 7.266772 and time of completion 2.906709
+5. task 84 of hour 8 and type 4 with importance 6.719594 and time of completion 1.599903
+6. task 89 of hour 8 and type 9 with importance 6.302421 and time of completion 2.990979
+7. task 64 of hour 6 and type 4 with importance 6.106563 and time of completion 1.453943
+8. task 59 of hour 5 and type 9 with importance 5.904646 and time of completion 2.802205
+9. task 69 of hour 6 and type 9 with importance 5.682760 and time of completion 2.696903
+10. task 96 of hour 9 and type 6 with importance 5.651470 and time of completion 3.662990
+11. task 19 of hour 1 and type 9 with importance 5.602436 and time of completion 2.658783
+12. task 66 of hour 6 and type 6 with importance 5.613018 and time of completion 3.638067
+13. task 85 of hour 8 and type 5 with importance 5.583589 and time of completion 2.791794
+14. task 99 of hour 9 and type 9 with importance 5.579329 and time of completion 2.647817
+15. task 9 of hour 0 and type 9 with importance 5.249094 and time of completion 2.491095
+16. task 55 of hour 5 and type 5 with importance 5.246068 and time of completion 2.623034
+17. task 16 of hour 1 and type 6 with importance 5.210660 and time of completion 3.377280
+18. task 46 of hour 4 and type 6 with importance 5.200503 and time of completion 3.370697
+19. task 5 of hour 0 and type 5 with importance 5.182106 and time of completion 2.591053
+20. task 86 of hour 8 and type 6 with importance 5.185856 and time of completion 3.361203
+21. task 39 of hour 3 and type 9 with importance 4.997365 and time of completion 2.371631
+22. task 75 of hour 7 and type 5 with importance 4.940153 and time of completion 2.470076
+23. task 36 of hour 3 and type 6 with importance 4.919482 and time of completion 3.188553
+24. task 8 of hour 0 and type 8 with importance 4.841893 and time of completion 1.936757
+25. task 15 of hour 1 and type 5 with importance 4.781543 and time of completion 2.390772
+26. task 28 of hour 2 and type 8 with importance 4.740035 and time of completion 1.896014
+27. task 98 of hour 9 and type 8 with importance 4.546684 and time of completion 1.818673
+28. task 95 of hour 9 and type 5 with importance 4.556124 and time of completion 2.278062
+29. task 79 of hour 7 and type 9 with importance 4.547441 and time of completion 2.158107
+30. task 29 of hour 2 and type 9 with importance 4.102091 and time of completion 1.946755
+31. task 48 of hour 4 and type 8 with importance 3.968527 and time of completion 1.587411
+32. task 3 of hour 0 and type 3 with importance 3.933751 and time of completion 6.016325
+33. task 32 of hour 3 and type 2 with importance 3.545272 and time of completion 2.954393
+34. task 51 of hour 5 and type 1 with importance 3.498592 and time of completion 1.166197
+35. task 13 of hour 1 and type 3 with importance 3.452218 and time of completion 5.279862
+36. task 1 of hour 0 and type 1 with importance 3.288293 and time of completion 1.096098
+37. task 62 of hour 6 and type 2 with importance 3.215050 and time of completion 2.679208
+38. task 33 of hour 3 and type 3 with importance 3.194125 and time of completion 4.885132
+39. task 81 of hour 8 and type 1 with importance 3.087715 and time of completion 1.029238
+40. task 23 of hour 2 and type 3 with importance 3.143767 and time of completion 4.808114
+41. task 41 of hour 4 and type 1 with importance 3.073744 and time of completion 1.024581
+42. task 43 of hour 4 and type 3 with importance 3.128665 and time of completion 4.785017
+43. task 61 of hour 6 and type 1 with importance 3.044371 and time of completion 1.014790
+44. task 2 of hour 0 and type 2 with importance 2.987674 and time of completion 2.489728
+45. task 12 of hour 1 and type 2 with importance 2.915991 and time of completion 2.429992
+46. task 42 of hour 4 and type 2 with importance 2.902563 and time of completion 2.418802
+47. task 71 of hour 7 and type 1 with importance 2.863168 and time of completion 0.954390
+48. task 93 of hour 9 and type 3 with importance 2.902092 and time of completion 4.438493
+49. task 52 of hour 5 and type 2 with importance 2.849786 and time of completion 2.374821
+50. task 72 of hour 7 and type 2 with importance 2.817236 and time of completion 2.347697
+51. task 82 of hour 8 and type 2 with importance 2.721873 and time of completion 2.268227
+52. task 53 of hour 5 and type 3 with importance 2.733341 and time of completion 4.180405
+53. task 22 of hour 2 and type 2 with importance 2.623080 and time of completion 2.185900
+54. task 50 of hour 5 and type 0 with importance 2.458858 and time of completion 3.688286
+55. task 91 of hour 9 and type 1 with importance 2.368912 and time of completion 0.789637
+56. task 31 of hour 3 and type 1 with importance 2.344373 and time of completion 0.781458
+57. task 20 of hour 2 and type 0 with importance 2.120790 and time of completion 3.181185
+58. task 87 of hour 8 and type 7 with importance 2.125536 and time of completion 4.251071
+59. task 47 of hour 4 and type 7 with importance 2.075555 and time of completion 4.151110
+60. task 17 of hour 1 and type 7 with importance 2.048508 and time of completion 4.097017
+61. task 0 of hour 0 and type 0 with importance 2.027203 and time of completion 3.040805
+62. task 60 of hour 6 and type 0 with importance 1.958147 and time of completion 2.937221
+63. task 40 of hour 4 and type 0 with importance 1.947849 and time of completion 2.921774
+64. task 70 of hour 7 and type 0 with importance 1.942453 and time of completion 2.913680
+65. task 80 of hour 8 and type 0 with importance 1.810719 and time of completion 2.716079
+66. task 57 of hour 5 and type 7 with importance 1.793314 and time of completion 3.586628
+67. task 90 of hour 9 and type 0 with importance 1.751699 and time of completion 2.627549
+68. task 30 of hour 3 and type 0 with importance 1.662787 and time of completion 2.494181
+69. task 11 of hour 1 and type 1 with importance 1.597922 and time of completion 0.532641
+70. task 7 of hour 0 and type 7 with importance 1.298483 and time of completion 2.596966

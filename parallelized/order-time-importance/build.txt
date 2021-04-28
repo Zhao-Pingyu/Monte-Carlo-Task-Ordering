@@ -1,0 +1,9 @@
+Build code:
+export OMP_NUM_THREADS=4
+gcc -fopenmp order.c main.c -o order-time-importance.exe -lm
+or:
+gcc -fopenmp Task_order_1.c -o order-time-importance.exe -lm
+（The contents of Task_order_1.c are the same as the three files: order.h, order.c, main.c put together.)
+
+Execute code:
+./order-time-importance.exe

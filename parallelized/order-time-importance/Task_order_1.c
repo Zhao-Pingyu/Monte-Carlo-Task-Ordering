@@ -125,7 +125,7 @@ int main() {
 	else if (order=='b'){
 		for(i=0;i<n;i++){
 			for(j=i+1;j<n;j++){
-				if (Task_array[i].exist == 1 && Task_array[j].exist == 1 && Task_array[i].importance>Task_array[j].importance){
+				if (Task_array[i].exist == 1 && Task_array[j].exist == 1 && Task_array[i].importance<Task_array[j].importance){
 					
 					swap(&Task_array[i],&Task_array[j]);
 				}

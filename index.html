@@ -11,14 +11,14 @@
         <p style="color:red;">This is the website for the project Monte Carlo for Task Ordering.</p> <br>
         
         <p> 
-        The goal of this project is to find the best way to order a series of tasks, so that the highest reward will be obtained. A number of task types will be determined at the beginning of the execution. Each type of tasks have a set of characteristics: 
-1. A probability of appearing each hour for a given number of hours
-2. An estimated average completion time
-3. An estimated average importance. 
+        The goal of this project is to find the best way to order a series of tasks, so that the highest reward will be obtained. A number of task types will be determined at the beginning of the execution. Each type of tasks have a set of characteristics: <br>
+1. A probability of appearing each hour for a given number of hours <br>
+2. An estimated average completion time <br>
+3. An estimated average importance. <br>
 
 Tasks of a certain type will appear randomly, with a probility of appearing at the beginning of each hour for a given number of hours. Each task will have a random completion time that is sampled from a Laplace distribution around the average completion time, and a random importance sampled from a Laplace distribution around the average importance. The types of tasks, the average time for completion and the average importance for each type of task, as well as the number of hours that tasks will appear, will be specified by the user. 
 
-At the beginning of each hour, whether a type of task will appear, the time for completion, and the importance will be generated randomly using Monte Carlo. There is also a reward/penalty function centered at the deadline, and depends on the importance of a task multiplied by a time function. The time function is given as the derivative of the function: *y = -t<sup>2</sup>*, and can be written as: *y=-2t*, where *t = t_completion - t_deadline* is the difference between the time at which a task is completed and the deadline. The reward/penalty of a given task is the importance of that task multiplied by the time function.
+At the beginning of each hour, whether a type of task will appear, the time for completion, and the importance will be generated randomly using Monte Carlo. There is also a reward/penalty function centered at the deadline, and depends on the importance of a task multiplied by a time function. The time function is given as the derivative of the function: $y = -t<sup>2</sup>$, and can be written as: $y=-2t$, where $t = t_completion - t_deadline$ is the difference between the time at which a task is completed and the deadline. The reward/penalty of a given task is the importance of that task multiplied by the time function.
         </p>
     </body>
 </html>
